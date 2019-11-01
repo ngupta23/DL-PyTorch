@@ -1,4 +1,4 @@
-# DL-PyTorch
+# Deep Learning using PyTorch
 
 * This repository contains notebooks for creating deep learning models in PyTorch. 
 * The notebooks are based on the ones in the following course: https://www.udemy.com/course/pytorch-for-deep-learning-with-python-bootcamp/
